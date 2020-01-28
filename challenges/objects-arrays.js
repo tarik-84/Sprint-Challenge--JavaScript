@@ -10,7 +10,7 @@ const dinosaur1 = {
   diet: 'carnivorous',
   weight: 7000kg,
   length: 12m,
-  period: Late_Cretaceous,
+  period: 'Late_Cretaceous',
   roar: function(){
     return "RAWERSRARARWERSARARARRRR!";
   }
@@ -21,7 +21,7 @@ const dinosaur2 = {
   diet: 'cherbivorous',
   weight: 2000kg,
   length: 9m,
-  period: Late_Jurassic,
+  period: 'Late_Jurassic',
 }
 
 const dinosaur3 = {
@@ -29,7 +29,7 @@ const dinosaur3 = {
   diet: 'carnivorous',
   weight: 15kg,
   length: 1.8m,
-  period: Late_Cretaceous,
+  period: 'Late_Cretaceous',
 }
 // tyrannosaurus, carnivorous, 7000kg, 12m, Late Cretaceous
 
